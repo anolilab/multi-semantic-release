@@ -72,7 +72,7 @@
         "test:watch": "vitest"
     },
     "dependencies": {
-        "@visulima/fs": "^2.1.4",
+        "@visulima/fs": "^2.1.8",
         "ini": "^4.1.3",
         "ts-deepmerge": "^7.0.0"
     },
