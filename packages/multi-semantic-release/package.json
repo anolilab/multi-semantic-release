@@ -54,12 +54,12 @@
         "detect-indent": "^7.0.1",
         "detect-newline": "^4.0.1",
         "execa": "^9.2.0",
-        "git-log-parser": "^1.2.0",
+        "git-log-parser": "^1.2.1",
         "lodash-es": "^4.17.21",
         "resolve-from": "^5.0.0",
         "semver": "^7.6.2",
         "signale": "^1.4.0",
-        "stream-buffers": "^3.0.2",
+        "stream-buffers": "^3.0.3",
         "yargs": "^17.7.2"
     },
     "devDependencies": {
